@@ -64,5 +64,6 @@ function getRandomUser(){
         console.log(error);
 
     });
+    
 
 }
